@@ -1,4 +1,4 @@
-# Entendo-os-bancos-NoSql-e-Sql
+# Entendendo-os-bancos-NoSql-e-Sql
 <br><br/>
 	&nbsp;&nbsp;&nbsp;&nbsp;Um dos desafios de um engenheiro de dados é, certamente, entender qual tipo de banco de dados utilizar. Os bancos de dados noSql e Sql possui vantagens distintas, e cada um possui ferramentas específicas para sua forma de representação dos dados. Além, de prezar pelo peso financeiro das aplicações que cada uma possui, e que possa impactar no capital da empresa, sendo ela de pequeno, médio ou grande porte.
   <br>
